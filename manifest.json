@@ -1,7 +1,7 @@
 {
   "name": "Vishwakarma Furniture",
   "short_name": "Vishwakarma",
-  "description": "Labour, clients aur quotation",
+  "description": "Vishwakarma Furniture business app: labour attendance and payments, client site records, calculator and quotation PDF maker.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -33,5 +33,6 @@
   "categories": [
     "business",
     "productivity"
-  ]
+  ],
+  "dir": "ltr"
 }
